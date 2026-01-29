@@ -48,11 +48,12 @@ export default function FindExam() {
           <input
             type="text"
             placeholder="Register Number"
-            value={regno.toUpperCase()}
-            onChange={(e) => setRegno(e.target.value)}
-            className="w-full border rounded-lg px-3 py-2 focus:ring-2 focus:ring-blue-500"
-            required
-          />
+            value={regno}
+            onChange={(e) =>
+            setRegno(
+            e.target.value.replace(/\s+/g, "").toUpperCase())
+            }
+            className="w-full border rounded-lg px-3 py-2 focus:ring-2 focus:ring-blue-500" required/>
           <select
             value={courseCode}
             onChange={(e) => setCourseCode(e.target.value)}
