@@ -1,0 +1,61 @@
+# =====================
+# Node
+# =====================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# =====================
+# Environment files
+# =====================
+.env
+.env.*
+!.env.example
+
+# =====================
+# Build / Dist
+# =====================
+dist/
+build/
+out/
+
+# =====================
+# Logs
+# =====================
+logs/
+*.log
+
+# =====================
+# Runtime data
+# =====================
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# =====================
+# Coverage
+# =====================
+coverage/
+.nyc_output/
+
+# =====================
+# OS / Editor
+# =====================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =====================
+# Testing
+# =====================
+test-results/
+
+# =====================
+# Optional cache
+# =====================
+.cache/
+.eslintcache

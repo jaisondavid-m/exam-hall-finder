@@ -1,0 +1,950 @@
+{
+  "exam_info": {
+    "exam_date": "02-02-2026",
+    "exam_session": "FN",
+    "exam_time": "09:00 AM to 12:00 PM",
+    "course_code": "22HS002",
+    "total_candidates": 1660
+  },
+  "halls": {
+    "EW107": [
+      {
+        "degree_branch": "B.E. CS",
+        "register_start": "7376251CS126",
+        "register_end": "7376251CS140",
+        "count": 15
+      },
+      {
+        "degree_branch": "B.Tech. IT",
+        "register_start": "7376252IT120",
+        "register_end": "7376252IT129",
+        "count": 10
+      }
+    ],
+    "EW108": [
+      {
+        "degree_branch": "B.E. CS",
+        "register_start": "7376251CS141",
+        "register_end": "7376251CS155",
+        "count": 15
+      },
+      {
+        "degree_branch": "B.Tech. IT",
+        "register_start": "7376252IT130",
+        "register_end": "7376252IT139",
+        "count": 10
+      }
+    ],
+    "EW109": [
+      {
+        "degree_branch": "B.E. CS",
+        "register_start": "7376251CS172",
+        "register_end": "7376251CS186",
+        "count": 15
+      },
+      {
+        "degree_branch": "B.Tech. IT",
+        "register_start": "7376252IT150",
+        "register_end": "7376252IT159",
+        "count": 10
+      }
+    ],
+    "EW113": [
+      {
+        "degree_branch": "B.Tech. AD",
+        "register_numbers": [
+          "7376242AD265",
+          "7376242AD320"
+        ],
+        "count": 2
+      },
+      {
+        "degree_branch": "B.E. CS",
+        "register_start": "7376251CS467",
+        "register_end": "7376251CS479",
+        "count": 13
+      },
+      {
+        "degree_branch": "B.Tech. IT",
+        "register_start": "7376252IT355",
+        "register_end": "7376252IT364",
+        "count": 10
+      }
+    ],
+    "EW114": [
+      {
+        "degree_branch": "B.E. EC",
+        "register_start": "7376251EC127",
+        "register_end": "7376251EC136",
+        "count": 10
+      },
+      {
+        "degree_branch": "B.Tech. AD",
+        "register_start": "7376252AD176",
+        "register_end": "7376252AD190",
+        "count": 15
+      }
+    ],
+    "EW115": [
+      {
+        "degree_branch": "B.E. EC",
+        "register_start": "7376251EC147",
+        "register_end": "7376251EC156",
+        "count": 10
+      },
+      {
+        "degree_branch": "B.Tech. AD",
+        "register_start": "7376252AD206",
+        "register_end": "7376252AD220",
+        "count": 15
+      }
+    ],
+    "EW116": [
+      {
+        "degree_branch": "B.E. EC",
+        "register_start": "7376251EC192",
+        "register_end": "7376251EC201",
+        "count": 10
+      },
+      {
+        "degree_branch": "B.Tech. AD",
+        "register_start": "7376252AD261",
+        "register_end": "7376252AD275",
+        "count": 15
+      }
+    ],
+    "EW117": [
+      {
+        "degree_branch": "B.E. EC",
+        "register_start": "7376251EC212",
+        "register_end": "7376251EC221",
+        "count": 10
+      },
+      {
+        "degree_branch": "B.Tech. AD",
+        "register_start": "7376252AD291",
+        "register_end": "7376252AD305",
+        "count": 15
+      }
+    ],
+    "EW118": [
+      {
+        "degree_branch": "B.E. EC",
+        "register_start": "7376251EC252",
+        "register_end": "7376251EC261",
+        "count": 10
+      },
+      {
+        "degree_branch": "B.Tech. AD",
+        "register_start": "7376252AD351",
+        "register_end": "7376252AD365",
+        "count": 15
+      }
+    ],
+    "EW207": [
+      {
+        "degree_branch": "B.E. CS",
+        "register_start": "7376251CS247",
+        "register_end": "7376251CS261",
+        "count": 15
+      },
+      {
+        "degree_branch": "B.Tech. IT",
+        "register_start": "7376252IT200",
+        "register_end": "7376252IT209",
+        "count": 10
+      }
+    ],
+    "EW208": [
+      {
+        "degree_branch": "B.E. CS",
+        "register_start": "7376251CS277",
+        "register_end": "7376251CS291",
+        "count": 15
+      },
+      {
+        "degree_branch": "B.Tech. IT",
+        "register_start": "7376252IT220",
+        "register_end": "7376252IT229",
+        "count": 10
+      }
+    ],
+    "EW209": [
+      {
+        "degree_branch": "B.E. CS",
+        "register_start": "7376251CS307",
+        "register_end": "7376251CS321",
+        "count": 15
+      },
+      {
+        "degree_branch": "B.Tech. IT",
+        "register_start": "7376252IT240",
+        "register_end": "7376252IT249",
+        "count": 10
+      }
+    ],
+    "EW212": [
+      {
+        "degree_branch": "B.E. CS",
+        "register_start": "7376251CS427",
+        "register_end": "7376251CS451",
+        "count": 25
+      },
+      {
+        "degree_branch": "B.Tech. IT",
+        "register_start": "7376252IT320",
+        "register_end": "7376252IT344",
+        "count": 25
+      }
+    ],
+    "EW213": [
+      {
+        "degree_branch": "B.E. EC",
+        "register_start": "7376251EC262",
+        "register_end": "7376251EC271",
+        "count": 10
+      },
+      {
+        "degree_branch": "B.Tech. AD",
+        "register_start": "7376252AD366",
+        "register_end": "7376252AD380",
+        "count": 15
+      }
+    ],
+    "EW214": [
+      {
+        "degree_branch": "B.E. EC",
+        "register_start": "7376251EC282",
+        "register_end": "7376251EC291",
+        "count": 10
+      },
+      {
+        "degree_branch": "B.Tech. AL",
+        "register_start": "7376252AL114",
+        "register_end": "7376252AL128",
+        "count": 15
+      }
+    ],
+    "EW215": [
+      {
+        "degree_branch": "B.E. EC",
+        "register_start": "7376251EC292",
+        "register_end": "7376251EC301",
+        "count": 10
+      },
+      {
+        "degree_branch": "B.Tech. AL",
+        "register_start": "7376252AL129",
+        "register_end": "7376252AL143",
+        "count": 15
+      }
+    ],
+    "EW218": [
+      {
+        "degree_branch": "B.E. EC",
+        "register_start": "7376251EC302",
+        "register_end": "7376251EC326",
+        "count": 25
+      },
+      {
+        "degree_branch": "B.Tech. AL",
+        "register_start": "7376252AL144",
+        "register_end": "7376252AL168",
+        "count": 25
+      }
+    ],
+    "WW005": [
+      {
+        "degree_branch": "B.Tech. IT",
+        "register_start": "7376252IT365",
+        "register_end": "7376252IT374",
+        "count": 10
+      },
+      {
+        "degree_branch": "B.Tech. AD",
+        "register_start": "7376252AD101",
+        "register_end": "7376252AD115",
+        "count": 15
+      }
+    ],
+    "WW006": [
+      {
+        "degree_branch": "B.Tech. IT",
+        "register_start": "7376252IT375",
+        "register_end": "7376252IT384",
+        "count": 10
+      },
+      {
+        "degree_branch": "B.Tech. AD",
+        "register_start": "7376252AD116",
+        "register_end": "7376252AD130",
+        "count": 15
+      }
+    ],
+    "WW007": [
+      {
+        "degree_branch": "B.E. EC",
+        "register_start": "7376251EC101",
+        "register_end": "7376251EC106",
+        "count": 6
+      },
+      {
+        "degree_branch": "B.Tech. IT",
+        "register_start": "7376252IT385",
+        "register_end": "7376252IT388",
+        "count": 4
+      },
+      {
+        "degree_branch": "B.Tech. AD",
+        "register_start": "7376252AD131",
+        "register_end": "7376252AD145",
+        "count": 15
+      }
+    ],
+    "WW008": [
+      {
+        "degree_branch": "B.E. EC",
+        "register_start": "7376251EC137",
+        "register_end": "7376251EC146",
+        "count": 10
+      },
+      {
+        "degree_branch": "B.Tech. AD",
+        "register_start": "7376252AD191",
+        "register_end": "7376252AD205",
+        "count": 15
+      }
+    ],
+    "WW011": [
+      {
+        "degree_branch": "B.E. EC",
+        "register_start": "7376251EC202",
+        "register_end": "7376251EC211",
+        "count": 10
+      },
+      {
+        "degree_branch": "B.Tech. AD",
+        "register_start": "7376252AD276",
+        "register_end": "7376252AD290",
+        "count": 15
+      }
+    ],
+    "WW012": [
+      {
+        "degree_branch": "B.E. EC",
+        "register_start": "7376251EC232",
+        "register_end": "7376251EC241",
+        "count": 10
+      },
+      {
+        "degree_branch": "B.Tech. AD",
+        "register_start": "7376252AD321",
+        "register_end": "7376252AD335",
+        "count": 15
+      }
+    ],
+    "WW101": [
+      {
+        "degree_branch": "B.Tech. FD",
+        "register_numbers": [
+          "7376222FD116",
+          "7376222FD125"
+        ],
+        "count": 2
+      },
+      {
+        "degree_branch": "B.E. ME",
+        "register_start": "7376231ME104",
+        "register_end": "7376231ME104",
+        "count": 1
+      },
+      {
+        "degree_branch": "B.E. MZ",
+        "register_start": "7376231MZ148",
+        "register_end": "7376231MZ148",
+        "count": 1
+      },
+      {
+        "degree_branch": "B.Tech. CB",
+        "register_start": "7376232CB123",
+        "register_end": "7376232CB123",
+        "count": 1
+      },
+      {
+        "degree_branch": "B.E. ME",
+        "register_numbers": [
+          "7376241ME107",
+          "7376241ME112",
+          "7376241ME134",
+          "7376241ME154"
+        ],
+        "count": 4
+      },
+      {
+        "degree_branch": "B.E. EE",
+        "register_start": "7376251EE203",
+        "register_end": "7376251EE206",
+        "count": 4
+      },
+      {
+        "degree_branch": "B.E. EI",
+        "register_start": "7376251EI121",
+        "register_end": "7376251EI132",
+        "count": 12
+      }
+    ],
+    "WW103": [
+      {
+        "degree_branch": "B.E. CS",
+        "register_numbers": [
+          "7376241CS103",
+          "7376241CS230",
+          "7376241CS335",
+          "7376241CS467",
+          "7376241CS474"
+        ],
+        "count": 5
+      },
+      {
+        "degree_branch": "B.Tech. IT",
+        "register_numbers": [
+          "7376242IT184",
+          "7376242IT214"
+        ],
+        "count": 2
+      },
+      {
+        "degree_branch": "B.E. CS",
+        "register_start": "7376251CS101",
+        "register_end": "7376251CS110",
+        "count": 10
+      },
+      {
+        "degree_branch": "B.Tech. IT",
+        "register_start": "7376252IT102",
+        "register_end": "7376252IT109",
+        "count": 8
+      }
+    ],
+    "WW107": [
+      {
+        "degree_branch": "B.E. CS",
+        "register_start": "7376251CS382",
+        "register_end": "7376251CS396",
+        "count": 15
+      },
+      {
+        "degree_branch": "B.Tech. IT",
+        "register_start": "7376252IT290",
+        "register_end": "7376252IT299",
+        "count": 10
+      }
+    ],
+    "WW108": [
+      {
+        "degree_branch": "B.E. CS",
+        "register_start": "7376251CS397",
+        "register_end": "7376251CS411",
+        "count": 15
+      },
+      {
+        "degree_branch": "B.Tech. IT",
+        "register_start": "7376252IT300",
+        "register_end": "7376252IT309",
+        "count": 10
+      }
+    ],
+    "WW109": [
+      {
+        "degree_branch": "B.E. CS",
+        "register_start": "7376251CS412",
+        "register_end": "7376251CS426",
+        "count": 15
+      },
+      {
+        "degree_branch": "B.Tech. IT",
+        "register_start": "7376252IT310",
+        "register_end": "7376252IT319",
+        "count": 10
+      }
+    ],
+    "WW110": [
+      {
+        "degree_branch": "B.E. CS",
+        "register_start": "7376251CS452",
+        "register_end": "7376251CS466",
+        "count": 15
+      },
+      {
+        "degree_branch": "B.Tech. IT",
+        "register_start": "7376252IT345",
+        "register_end": "7376252IT354",
+        "count": 10
+      }
+    ],
+    "WW111": [
+      {
+        "degree_branch": "B.E. EC",
+        "register_start": "7376251EC107",
+        "register_end": "7376251EC116",
+        "count": 10
+      },
+      {
+        "degree_branch": "B.Tech. AD",
+        "register_start": "7376252AD146",
+        "register_end": "7376252AD160",
+        "count": 15
+      }
+    ],
+    "WW112": [
+      {
+        "degree_branch": "B.E. EC",
+        "register_start": "7376251EC117",
+        "register_end": "7376251EC126",
+        "count": 10
+      },
+      {
+        "degree_branch": "B.Tech. AD",
+        "register_start": "7376252AD161",
+        "register_end": "7376252AD175",
+        "count": 15
+      }
+    ],
+    "WW113": [
+      {
+        "degree_branch": "B.E. CS",
+        "register_start": "7376251CS111",
+        "register_end": "7376251CS125",
+        "count": 15
+      },
+      {
+        "degree_branch": "B.Tech. IT",
+        "register_start": "7376252IT110",
+        "register_end": "7376252IT119",
+        "count": 10
+      }
+    ],
+    "WW114": [
+      {
+        "degree_branch": "B.E. CS",
+        "register_numbers": [
+          "7376251CS156",
+          "7376251CS157",
+          "7376251CS158",
+          "7376251CS159",
+          "7376251CS160",
+          "7376251CS161",
+          "7376251CS162",
+          "7376251CS163",
+          "7376251CS164",
+          "7376251CS165",
+          "7376251CS166",
+          "7376251CS167",
+          "7376251CS168",
+          "7376251CS170",
+          "7376251CS171"
+        ],
+        "count": 15
+      },
+      {
+        "degree_branch": "B.Tech. IT",
+        "register_start": "7376252IT140",
+        "register_end": "7376252IT149",
+        "count": 10
+      }
+    ],
+    "WW115": [
+      {
+        "degree_branch": "B.E. CS",
+        "register_start": "7376251CS187",
+        "register_end": "7376251CS201",
+        "count": 15
+      },
+      {
+        "degree_branch": "B.Tech. IT",
+        "register_start": "7376252IT160",
+        "register_end": "7376252IT169",
+        "count": 10
+      }
+    ],
+    "WW117": [
+      {
+        "degree_branch": "B.E. CS",
+        "register_start": "7376251CS202",
+        "register_end": "7376251CS216",
+        "count": 15
+      },
+      {
+        "degree_branch": "B.Tech. IT",
+        "register_start": "7376252IT170",
+        "register_end": "7376252IT179",
+        "count": 10
+      }
+    ],
+    "WW118": [
+      {
+        "degree_branch": "B.E. CS",
+        "register_start": "7376251CS217",
+        "register_end": "7376251CS231",
+        "count": 15
+      },
+      {
+        "degree_branch": "B.Tech. IT",
+        "register_start": "7376252IT180",
+        "register_end": "7376252IT189",
+        "count": 10
+      }
+    ],
+    "WW203": [
+      {
+        "degree_branch": "B.E. CS",
+        "register_start": "7376251CS232",
+        "register_end": "7376251CS246",
+        "count": 15
+      },
+      {
+        "degree_branch": "B.Tech. IT",
+        "register_start": "7376252IT190",
+        "register_end": "7376252IT199",
+        "count": 10
+      }
+    ],
+    "WW204": [
+      {
+        "degree_branch": "B.E. CS",
+        "register_start": "7376251CS292",
+        "register_end": "7376251CS306",
+        "count": 15
+      },
+      {
+        "degree_branch": "B.Tech. IT",
+        "register_start": "7376252IT230",
+        "register_end": "7376252IT239",
+        "count": 10
+      }
+    ],
+    "WW205": [
+      {
+        "degree_branch": "B.E. CS",
+        "register_start": "7376251CS337",
+        "register_end": "7376251CS351",
+        "count": 15
+      },
+      {
+        "degree_branch": "B.Tech. IT",
+        "register_start": "7376252IT260",
+        "register_end": "7376252IT269",
+        "count": 10
+      }
+    ],
+    "WW206": [
+      {
+        "degree_branch": "B.E. EC",
+        "register_start": "7376251EC157",
+        "register_end": "7376251EC166",
+        "count": 10
+      },
+      {
+        "degree_branch": "B.Tech. AD",
+        "register_start": "7376252AD221",
+        "register_end": "7376252AD235",
+        "count": 15
+      }
+    ],
+    "WW207": [
+      {
+        "degree_branch": "B.E. EC",
+        "register_start": "7376251EC167",
+        "register_end": "7376251EC191",
+        "count": 25
+      },
+      {
+        "degree_branch": "B.Tech. AD",
+        "register_start": "7376252AD236",
+        "register_end": "7376252AD260",
+        "count": 25
+      }
+    ],
+    "WW208": [
+      {
+        "degree_branch": "B.E. EC",
+        "register_start": "7376251EC222",
+        "register_end": "7376251EC231",
+        "count": 10
+      },
+      {
+        "degree_branch": "B.Tech. AD",
+        "register_start": "7376252AD306",
+        "register_end": "7376252AD320",
+        "count": 15
+      }
+    ],
+    "WW209": [
+      {
+        "degree_branch": "B.E. EC",
+        "register_start": "7376251EC242",
+        "register_end": "7376251EC251",
+        "count": 10
+      },
+      {
+        "degree_branch": "B.Tech. AD",
+        "register_start": "7376252AD336",
+        "register_end": "7376252AD350",
+        "count": 15
+      }
+    ],
+    "WW210": [
+      {
+        "degree_branch": "B.Tech. AL",
+        "register_start": "7376242AL207",
+        "register_end": "7376242AL207",
+        "count": 1
+      },
+      {
+        "degree_branch": "B.E. EC",
+        "register_start": "7376251EC272",
+        "register_end": "7376251EC281",
+        "count": 10
+      },
+      {
+        "degree_branch": "B.Tech. AD",
+        "register_start": "7376252AD381",
+        "register_end": "7376252AD381",
+        "count": 1
+      },
+      {
+        "degree_branch": "B.Tech. AL",
+        "register_start": "7376252AL101",
+        "register_end": "7376252AL113",
+        "count": 13
+      }
+    ],
+    "WW211": [
+      {
+        "degree_branch": "B.E. CS",
+        "register_start": "7376251CS262",
+        "register_end": "7376251CS276",
+        "count": 15
+      },
+      {
+        "degree_branch": "B.Tech. IT",
+        "register_start": "7376252IT210",
+        "register_end": "7376252IT219",
+        "count": 10
+      }
+    ],
+    "WW212": [
+      {
+        "degree_branch": "B.E. CE",
+        "register_start": "7376221CE124",
+        "register_end": "7376221CE124",
+        "count": 1
+      },
+      {
+        "degree_branch": "B.Tech. FT",
+        "register_start": "7376222FT102",
+        "register_end": "7376222FT102",
+        "count": 1
+      },
+      {
+        "degree_branch": "B.Tech. AG",
+        "register_numbers": [
+          "7376222AG120",
+          "7376222AG147",
+          "7376222AG158"
+        ],
+        "count": 3
+      },
+      {
+        "degree_branch": "B.E. EI",
+        "register_start": "7376251EI133",
+        "register_end": "7376251EI162",
+        "count": 30
+      }
+    ],
+    "WW213": [
+      {
+        "degree_branch": "B.E. CS",
+        "register_start": "7376251CS322",
+        "register_end": "7376251CS336",
+        "count": 15
+      },
+      {
+        "degree_branch": "B.Tech. IT",
+        "register_start": "7376252IT250",
+        "register_end": "7376252IT259",
+        "count": 10
+      }
+    ],
+    "WW214": [
+      {
+        "degree_branch": "B.E. CS",
+        "register_start": "7376251CS352",
+        "register_end": "7376251CS366",
+        "count": 15
+      },
+      {
+        "degree_branch": "B.Tech. IT",
+        "register_start": "7376252IT270",
+        "register_end": "7376252IT279",
+        "count": 10
+      }
+    ],
+    "WW215": [
+      {
+        "degree_branch": "B.E. CS",
+        "register_start": "7376251CS367",
+        "register_end": "7376251CS381",
+        "count": 15
+      },
+      {
+        "degree_branch": "B.Tech. IT",
+        "register_start": "7376252IT280",
+        "register_end": "7376252IT289",
+        "count": 10
+      }
+    ],
+    "WW218": [
+      {
+        "degree_branch": "B.E. EC",
+        "register_start": "7376251EC327",
+        "register_end": "7376251EC336",
+        "count": 10
+      },
+      {
+        "degree_branch": "B.Tech. AL",
+        "register_start": "7376252AL169",
+        "register_end": "7376252AL183",
+        "count": 15
+      }
+    ],
+    "WW219": [
+      {
+        "degree_branch": "B.E. EC",
+        "register_start": "7376251EC337",
+        "register_end": "7376251EC346",
+        "count": 10
+      },
+      {
+        "degree_branch": "B.Tech. AL",
+        "register_start": "7376252AL184",
+        "register_end": "7376252AL198",
+        "count": 15
+      }
+    ],
+    "WW222": [
+      {
+        "degree_branch": "B.E. EC",
+        "register_start": "7376251EC347",
+        "register_end": "7376251EC352",
+        "count": 6
+      },
+      {
+        "degree_branch": "B.Tech. BT",
+        "register_start": "7376252BT102",
+        "register_end": "7376252BT120",
+        "count": 19
+      },
+      {
+        "degree_branch": "B.Tech. AL",
+        "register_start": "7376252AL199",
+        "register_end": "7376252AL223",
+        "count": 25
+      }
+    ],
+    "WW223": [
+      {
+        "degree_branch": "B.E. EE",
+        "register_start": "7376241EE146",
+        "register_end": "7376241EE146",
+        "count": 1
+      },
+      {
+        "degree_branch": "Mixed",
+        "register_start": "7376251EE102",
+        "register_end": "7376251EE102",
+        "count": 1
+      },
+      {
+        "degree_branch": "B.Tech. BT",
+        "register_start": "7376252BT121",
+        "register_end": "7376252BT145",
+        "count": 25
+      },
+      {
+        "degree_branch": "B.Tech. AL",
+        "register_start": "7376252AL224",
+        "register_end": "7376252AL246",
+        "count": 23
+      }
+    ],
+    "WW224": [
+      {
+        "degree_branch": "B.E. EE",
+        "register_start": "7376251EE103",
+        "register_end": "7376251EE127",
+        "count": 25
+      },
+      {
+        "degree_branch": "B.Tech. BT",
+        "register_start": "7376252BT146",
+        "register_end": "7376252BT170",
+        "count": 25
+      }
+    ],
+    "WW225": [
+      {
+        "degree_branch": "B.E. EE",
+        "register_start": "7376251EE128",
+        "register_end": "7376251EE152",
+        "count": 25
+      },
+      {
+        "degree_branch": "B.Tech. BT",
+        "register_start": "7376252BT171",
+        "register_end": "7376252BT195",
+        "count": 25
+      }
+    ],
+    "WW226": [
+      {
+        "degree_branch": "B.E. EE",
+        "register_start": "7376251EE153",
+        "register_end": "7376251EE177",
+        "count": 25
+      },
+      {
+        "degree_branch": "B.Tech. BT",
+        "register_start": "7376252BT196",
+        "register_end": "7376252BT220",
+        "count": 25
+      }
+    ],
+    "WW227": [
+      {
+        "degree_branch": "B.E. EI",
+        "register_start": "7376241EI146",
+        "register_end": "7376241EI146",
+        "count": 1
+      },
+      {
+        "degree_branch": "B.E. EE",
+        "register_start": "7376251EE178",
+        "register_end": "7376251EE202",
+        "count": 25
+      },
+      {
+        "degree_branch": "B.E. EI",
+        "register_start": "7376251EI101",
+        "register_end": "7376251EI120",
+        "count": 20
+      },
+      {
+        "degree_branch": "B.Tech. BT",
+        "register_start": "7376252BT221",
+        "register_end": "7376252BT224",
+        "count": 4
+      }
+    ]
+  }
+}
