@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { Analytics } from "@vercel/analytics/react";
 import api from "../api/axios";
 
 const COURSE_OPTIONS = [
@@ -108,6 +109,7 @@ export default function FindExam() {
           </div>
         )}
       </div>
+      <Analytics />
     </div>
   );
 }
