@@ -8,14 +8,13 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 const seating_22HS002 = JSON.parse(readFileSync("./data/22HS002.json", "utf-8"));
-const seating_22GE001 = JSON.parse(readFileSync("./data/22GE001.json", "utf-8"));
 const viva_22HS002 = JSON.parse(readFileSync("./data/22HS002VV.json", "utf-8"));
 
 const app = express();
 const PORT = process.env.PORT || 3000;
 
 app.use(cors({
-  origin: "https://exam-hall-finder.vercel.app", // React dev server
+  origin: ["https://exam-hall-finder.vercel.app","http://localhost:3001"], // React dev server
   methods: ["GET", "POST", "OPTIONS"],
   allowedHeaders: ["Content-Type"]
 }));
@@ -47,23 +46,6 @@ app.post("/api/find", (req, res) => {
 
   if (!regno || !course_code) {
     return res.status(400).json({ error: "regno and course_code required" });
-  }
-
-  /* ---------------- 22GE001 - FOC EXAM ---------------- */
-  if (course_code === "22GE001") {
-    for (const [hall, groups] of Object.entries(seating_22GE001.halls)) {
-      for (const g of groups) {
-        if (matchRegister(regno, g)) {
-          return res.json({
-            course_code,
-            type: "exam",
-            exam_hall: hall,
-            degree_branch: g.degree_branch,
-            exam_info: seating_22GE001.exam_info,
-          });
-        }
-      }
-    }
   }
 
   /* ---------------- 22HS002 - WRITTEN EXAM ---------------- */

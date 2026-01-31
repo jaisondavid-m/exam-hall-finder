@@ -3,7 +3,6 @@ import { Analytics } from "@vercel/analytics/react";
 import api from "../api/axios";
 
 const COURSE_OPTIONS = [
-  { label: "22GE001 - FOC", value: "22GE001" },
   { label: "22HS002 – StartUp", value: "22HS002" },
   { label: "22HS002 – StartUp (Viva)", value: "22HS002VV" },
 ];
